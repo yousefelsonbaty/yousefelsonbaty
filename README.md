@@ -3,7 +3,7 @@
 # 👤 About Me:
 💼 I'm a dedicated developer pursuing a Bachelor of Science in Computer Engineering, committed to contributing meaningfully through proficient coding and thoughtful innovation. 🖥️
 
-[🏠 My Portfolio](https://yousefelsonbaty.github.io/yousefelsonbaty/) | [📧 Email](mailto:yousefelsonbaty@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/yousefelsonbaty/) | [📄 Resume](https://github.com/emansarahafi/emansarahafi/raw/383cda6b0cdd349aa3e608df2d53b8e847045fff/CV_2023-11-10_Eman_Afi.pdf)
+[🏠 My Portfolio](https://yousefelsonbaty.github.io/yousefelsonbaty/) | [📧 Email](mailto:yousefelsonbaty@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/yousefelsonbaty/) | [📄 Resume](https://github.com/yousefelsonbaty/yousefelsonbaty/raw/286f647e8beb4f856d070afafcc6117b733b2763/Yousef_Elsonbaty_AUBH_Internship_Resume.docx)
 
 # 💻 Skills:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
