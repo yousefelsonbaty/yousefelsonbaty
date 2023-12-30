@@ -14,10 +14,6 @@ layout: default
 
 <br>
 
-{% include 04-experience.md %}
-
-<br>
-
 {% include 05-projects.md %}
 
 <br>
