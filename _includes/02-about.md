@@ -5,4 +5,4 @@ style: "display: none;"
 
 # About Me
 
-🚀 Hello, I'm Eman! I am a passionate developer pursuing a Master's in Software Engineering & graduated with a B.Sc. in Computer Engineering! I enjoy solving problems and creating solutions that make a positive impact.
+💼 My name is Yousef Elsonbaty! I'm a dedicated developer pursuing a Bachelor of Science in Computer Engineering, committed to contributing meaningfully through proficient coding and thoughtful innovation. 🖥️
