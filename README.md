@@ -18,6 +18,8 @@
 
 ## Data Science:
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ## Java Frameworks:
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
