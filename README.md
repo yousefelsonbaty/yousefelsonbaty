@@ -3,7 +3,7 @@
 # 👤 About Me:
 💼 I'm a dedicated developer pursuing a Bachelor of Science in Computer Engineering, committed to contributing meaningfully through proficient coding and thoughtful innovation. 🖥️
 
-[🏠 My Portfolio](https://yousefelsonbaty.github.io/yousefelsonbaty/) | [📧 Email](mailto:yousefelsonbaty@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/yousefelsonbaty/) | [📄 Resume](https://github.com/yousefelsonbaty/yousefelsonbaty/raw/286f647e8beb4f856d070afafcc6117b733b2763/Yousef_Elsonbaty_AUBH_Internship_Resume.docx)
+[🏠 My Portfolio](https://yousefelsonbaty.github.io/yousefelsonbaty/) | [📧 Email](mailto:yousefelsonbaty@gmail.com) | [🔗 LinkedIn](https://www.linkedin.com/in/yousefelsonbaty/) | [📄 Resume](https://github.com/yousefelsonbaty/yousefelsonbaty/raw/e5cc6f1f73fe3c8a1b133adfd6860645d665fb25/Yousef_Elsonbaty_AUBH_Internship_Resume.docx)
 
 # 💻 Skills:
 
