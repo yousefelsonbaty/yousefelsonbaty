@@ -62,11 +62,8 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yousefelsonbaty&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yousefelsonbaty&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefelsonbaty&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=yousefelsonbaty&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefelsonbaty&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 *Feel free to view my repositories below.*
-
 
 This repository is licensed under MIT (c) 2023 GitHub, Inc.
